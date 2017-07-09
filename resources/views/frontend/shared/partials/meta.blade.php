@@ -10,12 +10,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 <!-- Favicon -->
-<link rel="icon" type="image/png" href="{{ asset('vendor/canvas/assets/images/favicon.png') }}">
+<link rel="icon" href="{{ asset('vendor/canvas/assets/images/favicon.ico') }}">
 
 <!-- Facebook Open Graph Tags -->
 <meta property="og:title" content="@yield('og-title')">
 <meta property="og:image" content="@yield('og-image')">
-<meta property="og:image:width" content="800">
 <meta property="og:description" content="@yield('og-description')">
 <meta name="og:type" content="blog">
 <meta name="og:site_name" content="{{ \Canvas\Models\Settings::blogTitle() }}">
