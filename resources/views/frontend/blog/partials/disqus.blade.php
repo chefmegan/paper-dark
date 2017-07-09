@@ -1,5 +1,7 @@
-<div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<article class="media">
+        <div class="media-content">
+        <div class="content">
+        
         @if (isset($slug))
 
             <div id="disqus_thread"></div>
@@ -26,7 +28,7 @@
             </a>
 
         @endif
-
-    </div>
-</div>
-<br>
+        
+          </div>
+        </div>
+        </article>
