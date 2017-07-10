@@ -16,10 +16,10 @@
 
 <div class="container has-text-centered" id="blogTitles">
 
-  <h1 class="title is-2 is-primary">
+  <h1 class="title is-2 is-primary" id="blogTitle">
     {{ $post->title }}
     </h1>
-    <h2 class="subtitle is-4">
+    <h2 class="subtitle is-4" id="blogSubtitle">
     {{ $post->subtitle }} 
   </h2>
   <h3 class="subtitle is-6">
