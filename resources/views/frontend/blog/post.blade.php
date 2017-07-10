@@ -56,7 +56,7 @@
 <style>
 
 #blogText{
-max-width: 968px;
+max-width: 200px;
 }
 
 </style>
