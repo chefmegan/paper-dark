@@ -33,7 +33,7 @@
 
 </div>
 
-  <div class="container">
+  <div class="container" id="blogText">
     <p>
       {!! $post->content_html !!}
     </p>
