@@ -10,3 +10,13 @@
 <link rel="stylesheet" id="font-awesome" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 <!-- bulma-->
 <link rel="stylesheet" id="bulma" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.2/css/bulma.min.css" />
+
+<style>
+
+.container {
+  padding-top:50px;
+  max-width: 968px;
+}
+
+</style>
+
