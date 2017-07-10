@@ -7,9 +7,11 @@
 </div>
 
 <br>
-<span id="top-link-block" class="has-text-centered">
+<div id="scrollToTop">
+<span id="top-link-block">
 <a id="scroll-to-top" class="tag is-primary is-large" href="#top">Scroll to Top</a>
 </span>
+</div>
 
 @if (!empty(\Canvas\Models\Settings::gaId()))
     @include('canvas::frontend.blog.partials.analytics')
