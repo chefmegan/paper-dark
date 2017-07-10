@@ -14,7 +14,7 @@
 
 <div>
 
-<div class="container has-text-centered">
+<div class="container has-text-centered" id="blogTitles">
 
   <h1 class="title is-2 is-primary">
     {{ $post->title }}
