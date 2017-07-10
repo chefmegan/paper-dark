@@ -7,7 +7,7 @@
 </div>
 
 <br>
-<span id="top-link-block">
+<span id="top-link-block" class="has-text-centered">
 <a id="scroll-to-top" class="tag is-primary is-large" href="#top">Scroll to Top</a>
 </span>
 
