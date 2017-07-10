@@ -1,4 +1,4 @@
-<article class="media">
+<article class="media" id="disqus">
         <div class="media-content">
         <div class="content">
         
