@@ -33,7 +33,7 @@
 
 </div>
 
-  <div class="container" id="blogText">
+  <div class="container">
     <p>
       {!! $post->content_html !!}
     </p>
@@ -50,16 +50,6 @@
 
 @section('unique-js')
 <script src="{{ elixir('vendor/canvas/assets/js/frontend.js') }}" charset="utf-8"></script>
-@endsection
-
-@section('unique-css')
-<style>
-
-#blogText{
-max-width: 200px;
-}
-
-</style>
 @endsection
 
 
